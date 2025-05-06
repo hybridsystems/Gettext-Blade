@@ -9,7 +9,7 @@ Add repository to `composer.json`:
     "repositories": [
         {
             "type": "vcs",
-            "url":  "https://github.com/livelyworks/Gettext-Blade"
+            "url":  "https://github.com/hybridsystems/Gettext-Blade"
         }
     ]
 }
